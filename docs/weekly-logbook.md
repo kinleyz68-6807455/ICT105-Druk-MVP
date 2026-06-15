@@ -28,15 +28,10 @@
 - File created:
   
 - README.md
-  
 - docs/team-profile.md
-  
-- docs/idea-log.md
-  
-- docs/problem-notes.md
-  
+- docs/idea-log.md 
+- docs/problem-notes.md 
 - docs/weekly-logbook.md
-
 
 
 ### Decision Made This Week
