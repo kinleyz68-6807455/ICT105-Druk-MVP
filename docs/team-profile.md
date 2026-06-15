@@ -14,8 +14,8 @@ DRUK
 ## Team Skills Inventory
 | Member | Technical Skills | Design Skills | Business/Communication Skills |
 |---|---|---|---|
-| Kinley Zam | Research | Canva |Documentation |
 | Sonam Deki | web development | GitHub | Team coordination |
+| Kinley Zam | Research | Canva |Documentation |
 | Tenzin Dema | wireframing | UI layout | planning |
 ## Team Working Agreement
 1. Meeting schedule: Team meetings will be held every Wednesday evening or whenever necessary before assignment deadlines.
