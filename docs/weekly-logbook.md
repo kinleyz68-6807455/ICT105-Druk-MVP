@@ -21,17 +21,27 @@
 ### Evidence of Work
 - GitHub repository link:https://github.com/kinleyz68-6807455/ICT105-Druk-MVP.git
 - Screenshot:
+- <img width="956" height="597" alt="Capture" src="https://github.com/user-attachments/assets/83944e3e-96af-4383-b173-6c798e342e12" />
+- <img width="1335" height="558" alt="1" src="https://github.com/user-attachments/assets/5e818917-28e9-4acf-b634-47fa57f709ec" />
+- <img width="235" height="647" alt="2" src="https://github.com/user-attachments/assets/f616998e-fd29-4281-9529-3b90e7a387e5" />
+
 - File created:
+  
 - README.md
+  
 - docs/team-profile.md
+  
 - docs/idea-log.md
+  
 - docs/problem-notes.md
+  
 - docs/weekly-logbook.md
 
 
 
 ### Decision Made This Week
-The team decided to develop a Tourism Information Platform that helps travelers find attractions, services, and travel information through a user-friendly website
+The team decided to develop a Tourism Information Platform that helps travelers find attractions, services, and travel information through a user-friendly website.
+
 ### Plan for Next Week
 In Lab 2, the team will refine the project idea, conduct basic user research, create wireframes, and begin planning the website prototype.
 
