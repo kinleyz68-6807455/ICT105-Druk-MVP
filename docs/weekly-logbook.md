@@ -78,7 +78,7 @@ This idea was rejected because it requires a larger customer base and more compl
 * NUF scoring file: https://github.com/kinleyz68-6807455/ICT105-Druk-MVP/blob/1fc143b43a9076be857a7f091026bfc79af6f1fe/data/opportunity-scoring.xlsx
 * Selected opportunity file: https://github.com/kinleyz68-6807455/ICT105-Druk-MVP/blob/ff7055b775777df5b6a235b165be6e8dbdf7354b/docs/selected-opportunity.md
 * GitHub issue screenshot: 
-* Commit link: 
+* Commit link: https://github.com/kinleyz68-6807455/ICT105-Druk-MVP/commits/main/
 
 ### Plan for Lab 03
 
