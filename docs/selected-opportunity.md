@@ -40,7 +40,7 @@ Smart Campus Event Hub received the highest overall score in the team's NUF eval
 
 
 | Idea | New | Useful | Feasible | Total | Rank | Note |
-|--------|:---:|:---:|:---:|:---:|:---:|--------|
+|--------|--------|--------|--------|--------|--------|--------|
 | Smart Campus Event Hub | 4 | 5 | 5 | 14 | 1 | Centralizes campus events and notifications; highly useful and easy to prototype. |
 | Tourism Information Platform | 4 | 5 | 4 | 13 | 2 | Provides organized travel information but requires collecting and maintaining destination data. |
 | Campus Item Recovery Platform | 5 | 4 | 3 | 12 | 3 | Addresses the common issue of lost items on campus. |
