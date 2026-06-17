@@ -75,7 +75,7 @@ This idea was rejected because it requires a larger customer base and more compl
 ### Evidence of Work
 
 * Opportunity scan file: 
-* NUF scoring file: 
+* NUF scoring file: https://github.com/kinleyz68-6807455/ICT105-Druk-MVP/blob/1fc143b43a9076be857a7f091026bfc79af6f1fe/data/opportunity-scoring.xlsx
 * Selected opportunity file:
 * GitHub issue screenshot: 
 * Commit link: 
