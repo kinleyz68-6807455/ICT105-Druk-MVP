@@ -38,14 +38,16 @@ The team will develop Smart Campus Event Hub, a web-based platform where student
 
 Smart Campus Event Hub received the highest overall score in the team's NUF evaluation.
 
+
 | Idea | New | Useful | Feasible | Total | Rank | Note |
-|------|------|------|------|------|------|
-|Smart Campus Event Hub | 4 | 5 | 5 | 14 | 1 | Centralizes campus events and notifications; highly useful and easy to prototype. |
-| Tourism Information Platform | 4 | 5 | 4 | 13 | 2 | Provides organized travel information but requires collecting and maintaining destination data. | 
+|--------|:---:|:---:|:---:|:---:|:---:|--------|
+| Smart Campus Event Hub | 4 | 5 | 5 | 14 | 1 | Centralizes campus events and notifications; highly useful and easy to prototype. |
+| Tourism Information Platform | 4 | 5 | 4 | 13 | 2 | Provides organized travel information but requires collecting and maintaining destination data. |
 | Campus Item Recovery Platform | 5 | 4 | 3 | 12 | 3 | Addresses the common issue of lost items on campus. |
 | Local Artisan Marketplace | 3 | 4 | 4 | 11 | 4 | Helps artisans reach customers but marketplace features add complexity. |
 | Academic Task Tracking Dashboard | 2 | 4 | 5 | 11 | 5 | Easy to build and useful for managing assignments and schedules. |
 | Career Application Monitoring Portal | 2 | 4 | 4 | 10 | 6 | Helps students track internships but requires information from multiple sources. |
+
 
 Smart Campus Event Hub was selected because it addresses a common problem experienced by university students. It is highly useful, technically achievable within the semester timeline, and can be validated through interviews and surveys. Compared to other ideas, it requires fewer complex features while still providing meaningful value to users.
 
